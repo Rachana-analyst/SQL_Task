@@ -1,0 +1,21 @@
+data_data_id,data_subject_id,data_value1,data_value2,subject_Subject_id,subject_Subject_name
+1,101,75,5625,101,Mathematics
+2,102,25,625,102,Environmental Science
+3,103,78,6084,103,Science
+4,104,36,1296,104,English
+5,105,98,9604,105,Chemistry
+6,106,71,5041,106,Statistics
+7,107,25,625,107,English
+8,108,45,2025,108,Science
+9,109,45,2025,109,Physics
+10,110,66,4356,110,Statistics
+11,111,85,7225,111,Chemistry
+12,112,21,441,112,Hindi
+13,113,84,7056,113,Environmental Science
+14,114,80,6400,114,Geography
+15,115,49,2401,115,Hindi
+16,116,50,2500,116,Mathematics
+17,117,60,3600,117,Physical Education
+18,118,77,5929,118,Mathematics
+19,119,46,2116,119,Physical Education
+20,120,88,7744,120,English
